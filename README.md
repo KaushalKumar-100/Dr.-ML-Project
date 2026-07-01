@@ -18,7 +18,6 @@ This project was developed with the following objectives:
 - Compare multiple machine learning algorithms and select the best-performing models.
 - Build reusable training pipelines for different disease prediction tasks.
 - Create a centralized configuration management system.
-- Expose machine learning predictions through REST APIs.
 - Develop an intuitive and responsive web interface.
 - Follow industry-standard software engineering practices.
 - Prepare the application for cloud deployment.
@@ -293,7 +292,7 @@ This demonstrates the complete lifecycle of a machine learning project from deve
 
 ✅ Hyperparameter Optimization
 
-✅ FastAPI REST APIs
+✅ FastAPI 
 
 ✅ Pydantic Data Validation
 
